@@ -1,4 +1,4 @@
-package com.example.recycleview.model
+package com.Syukur.recycleview.model
 
 data class Pemain(
     var nama : String,

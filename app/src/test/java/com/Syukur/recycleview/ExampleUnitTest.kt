@@ -1,4 +1,4 @@
-package com.example.recycleview
+package com.Syukur.recycleview
 
 import org.junit.Test
 

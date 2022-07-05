@@ -1,4 +1,4 @@
-package com.example.recycleview
+package com.Syukur.recycleview
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity
@@ -6,9 +6,9 @@ import android.os.Bundle
 import android.view.Window
 import android.widget.Button
 import android.widget.TextView
-import com.example.recycleview.Adapter.AdapterTeamBola
-import com.example.recycleview.databinding.ActivityMainBinding
-import com.example.recycleview.model.Pemain
+import com.Syukur.recycleview.Adapter.AdapterTeamBola
+import com.Syukur.recycleview.databinding.ActivityMainBinding
+import com.Syukur.recycleview.model.Pemain
 import android.media.Image as Image1
 
 class MainActivity : AppCompatActivity() {
